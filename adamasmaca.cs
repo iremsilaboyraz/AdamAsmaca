@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        // Gizli kelime: "ışıltı"
+        // Gizli kelimeyi ben seçiyorum: "ışıltı"
         string gizliKelime = "ışıltı";
 
         // Kelimenin harflerini '_' ile gizliyorum
