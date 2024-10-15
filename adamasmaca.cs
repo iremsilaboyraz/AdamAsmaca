@@ -54,7 +54,7 @@ class Program
         {
             Console.WriteLine("Kaybettiniz! Kelime: " + gizliKelime);
         }
-        // Kullanıcıdan bir tuşa basmasını bekliyorum, böylece konsol kapanmaz
+        // Kullanıcıdan bir tuşa basmasını bekliyorum konsolun hemen kapanmaması için
         Console.WriteLine("Devam etmek için bir tuşa basın...");
         Console.ReadKey();  // Kullanıcı bir tuşa basana kadar bekle
     }
